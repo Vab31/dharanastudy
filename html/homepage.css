@@ -1,0 +1,46 @@
+
+#header{
+    /* margin-top: 1vh; */
+    height:5vmax;
+    background-color: rgba(68, 61, 61, 0.274); 
+    padding-top: 0.5vmax;  
+;
+}
+
+
+
+body{
+    margin-top: 2vmax;
+    background-color:rgba(245, 244, 244, 0.986);
+    text-align: center;
+ 
+}
+#btn1,#btn2{
+    margin-top: 8vmax;
+ width:50vmin;
+ background-color: tomato;
+
+
+}
+
+#bottam{
+    margin-top: 10vmax;
+    max-width:unset;
+    max-height: 100vmax;
+    background-color: rgba(68, 61, 61, 0.274);   
+    padding-top: 4vmin;
+    text-align: center;
+}
+    
+
+
+  
+    .contain{
+
+   border: 2px solid black;
+   padding-left:3vmin;
+   width: 35vmax;
+  
+
+
+    }

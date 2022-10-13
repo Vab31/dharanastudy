@@ -1,0 +1,53 @@
+
+#body{
+
+    text-align: left;
+    margin-left: 5vmax;
+}
+
+.h5{
+    color: crimson;
+
+
+
+}
+.contain{
+
+background-color:  rgba(99, 165, 177, 0.288);
+padding-top: 2vmax;
+padding-right: 2vmax;
+padding-bottom: 2vmax;
+}
+
+#navigation{
+margin-top: 20vmax; 
+
+}
+
+#aboutusbody{
+background-color: rgba(99, 165, 177, 0.288);
+font-family: Arial, Helvetica, sans-serif;
+color:navy;
+}
+
+#contact,#contactbottom{
+
+    background-color: navy;
+    width: 100vmax;
+    height: 7vmax;
+color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0vmax;
+    /* color:navy; */
+
+
+}
+#bottaminner{
+    margin-top: 1vmax;
+    
+    max-width:unset;
+    max-height: 100vmax;
+    background-color: rgba(68, 61, 61, 0.274);   
+    padding-top: 4vmin;
+    text-align: center;
+}
